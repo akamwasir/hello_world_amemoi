@@ -1,2 +1,2 @@
-# hello_world_amemoi
+# hello_world
 A test project for hello world.
